@@ -19,10 +19,10 @@ canvas {
 <link rel="stylesheet" href="../mystyle.css" type="text/css"/>
 
 
-<title>Assignment 7</title>
+<title>Ajax Demo</title>
 <link rel="stylesheet" href="mystyle.css" type="text/css"/>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<h1>Assignment 7</h1>
+<h1>Ajax Demo</h1>
 <h2>Alexander Williams</h2>
 
 <script>
